@@ -8,7 +8,5 @@ Atividade Prática Supervisionada 1
 ## APS 2
 Atividade Prática Supervisionada 2
 * Problema: Modificação em imagens digitais (como suavização ou detecção de bordas)
-* Resolução: Modificações automatizadas por algoritmos clássicos de Processamento de Imagens Digitais obtidas a partir de filtragens no domínio das frequências, usando a Transformada Discreta de Fourier.
+* Resolução: Modificações automatizadas por algoritmos clássicos de [Processamento de Imagens Digitais](https://en.wikipedia.org/wiki/Digital_image_processing) obtidas a partir de filtragens no domínio das frequências, usando a Transformada Discreta de Fourier.
 * A lógica principal se encontra no arquivo [`fourier.c`](/desprog-aps2/fourier.c)
-
-[Vídeo do funcionamento do robô](https://youtu.be/hs9sVoCzdCU)
